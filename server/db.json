@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "mobile": "09109254065",
+      "email": "haniehrahim78@gmail.com",
+      "job": "کارشناس فروش",
+      "group": "2",
+      "fullname": "مهسا لطفی",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyJaDGTfeDton6EmQvE-KYkmvUXAwd5JHqA&s",
+      "id": 4
+    },
+    {
+      "fullname": "حانیه رحیم",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPCyvGT5GEcU-ZVsB1lLct5Y_QkAu3ulbT-vV3AnLm_Mae0Z9hLqdyNFX5BDaaJ9EBY6E&usqp=CAU",
+      "mobile": "09120003366",
+      "email": "haniehrahim78@gmail.com",
+      "job": "برنامه نویس وب",
+      "group": "5",
+      "id": 5
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ]
+}
