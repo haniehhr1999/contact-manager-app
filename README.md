@@ -11,8 +11,8 @@
 
 
 ### طریقه راه اندازی سرور 
-cd server (in terminal)
-npm start
+- cd server (in terminal)
+- npm start
 
 
 ### طریقه راه اندازی پروژه
